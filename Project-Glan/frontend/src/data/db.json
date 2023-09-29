@@ -1,0 +1,36 @@
+{
+  "task": [
+    {
+      "id": "E065",
+      "iname": "Tile Cleaner",
+      "iqty": 200,
+      "prodSupe": "Kasun",
+      "sDate": "2023-05-12",
+      "eDate": "2023-05-27"
+    },
+    {
+      "id": "E0785",
+      "iname": "Bowel Cleaner",
+      "iqty": 100,
+      "prodSupe": "Kasun",
+      "sDate": "2023-08-23",
+      "eDate": "2023-08-25"
+    },
+    {
+      "id": "T009",
+      "iname": "Hand Sanitizer",
+      "iqty": "250",
+      "prodSupe": "Rohita",
+      "sDate": "2023-04-18",
+      "eDate": "2023-04-21"
+    },
+    {
+      "id": "D0089K",
+      "iname": "Dish wash",
+      "iqty": "350",
+      "prodSupe": "Asoka",
+      "sDate": "2023-09-09",
+      "eDate": "2023-09-15"
+    }
+  ]
+}

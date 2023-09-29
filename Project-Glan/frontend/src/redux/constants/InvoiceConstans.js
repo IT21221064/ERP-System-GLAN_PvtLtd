@@ -1,0 +1,15 @@
+export const MAKE_REQUEST = 'MAKE_REQUEST'
+export const FAIL_REQUEST = 'FAIL_REQUEST'
+export const GET_INVOICE_LIST = 'GET_INVOICE_LIST'
+export const DELETE_INVOICE = 'DELETE_INVOICE'
+export const ADD_INVOICE = 'ADD_INVOICE'
+export const UPDATE_INVOICE = 'UPDATE_INVOICE'
+export const GET_INVOICE_OBJ = 'GET_INVOICE_OBJ'
+
+/*
+export const GET_CREDIT_LIST = 'GET_CREDIT_LIST'
+export const DELETE_CREDIT = 'DELETE_CREDIT'
+export const ADD_CREDIT = 'ADD_CREDIT'
+export const UPDATE_CREDIT = 'UPDATE_CREDIT'
+export const GET_CREDIT_OBJ = 'GET_CREDIT_OBJ'
+*/
