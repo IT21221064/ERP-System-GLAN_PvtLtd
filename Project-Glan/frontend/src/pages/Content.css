@@ -1,0 +1,205 @@
+.Content {
+  margin-left: 200px;
+  margin-top: 40px;
+  margin-right: 20px;
+  /* background-color: aqua; */
+}
+
+.ContentForm {
+  margin-left: 200px;
+  margin-top: 20px;
+  margin-right: 280px;
+}
+
+.ContentDash {
+  margin-left: 200px;
+  margin-top: -720px;
+  margin-right: 20px;
+  background-color: aqua;
+  height: 100vh;
+}
+
+.submit {
+  background-color: #012169;
+  padding: 8px;
+  color: azure;
+  border-radius: 5px;
+  border-style: none;
+  margin: 8px;
+  width: 120px;
+  height: 40px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.clear {
+  background-color: #58111a;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  color: azure;
+  border-radius: 5px;
+  border-style: none;
+  margin: 8px;
+  width: 200px;
+  height: 90px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.clear:hover {
+  color: azure;
+}
+
+.update {
+  margin-right: 2px;
+  margin-top: 3px;
+  padding-left: 8px;
+  padding-top: 10px;
+  padding-bottom: 11px;
+  padding-right: 8px;
+  background-color: rgb(2, 2, 161);
+  color: azure;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.delete {
+  padding-left: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 8px;
+  background-color: rgb(125, 3, 3);
+  color: azure;
+  border-radius: 5px;
+}
+
+.page_link {
+  padding-left: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 35px;
+  background-color: rgb(40, 168, 40);
+  color: aliceblue;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-left: 950px;
+  width: 120px;
+  height: 40px;
+  text-decoration: none;
+}
+
+.page_link:hover {
+  color: azure;
+}
+
+.search {
+  margin-left: 1300px;
+  margin-top: -710px;
+  margin-bottom: 50px;
+  margin-right: 40px;
+}
+
+.page_sub_header {
+  margin-left: 200px;
+  /* background-color: antiquewhite; */
+}
+
+.sub_header_topic {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.form {
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.theader {
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.theaderInvoice {
+  font-size: 13px;
+  text-align: center;
+}
+
+.theaderManuf {
+  font-size: 13.5px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.tbody {
+  font-size: 14px;
+  text-align: center;
+}
+
+.tbodyInvoice {
+  font-size: 10.8px;
+  text-align: center;
+}
+
+.tbodyManuf {
+  font-size: 13px;
+  text-align: center;
+}
+
+.tabletr {
+  margin: 20px;
+}
+
+td.nowrap {
+  white-space: nowrap;
+}
+
+.margin {
+  margin-left: 30px;
+  border: none;
+}
+
+.noti {
+  margin-left: 980px;
+  margin-top: -25px;
+}
+
+.itemTable {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+label sup {
+  color: red;
+  font-size: 15px;
+  font-weight: bolder;
+  margin-left: 8px;
+}
+
+.required::after {
+  content: "*";
+  color: red;
+  font-size: 20px;
+}
+
+.topiclogin {
+  width: 190px;
+  margin-left: 600px;
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.logincontent {
+  margin-left: 600px;
+  margin-top: 50px;
+}
